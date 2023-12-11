@@ -4,13 +4,13 @@
 - Heavily inspired from RobinDo (one of the [sample apps](https://docs.flutterflow.io/miscellaneous/available-sample-apps#:~:text=RobinDo))
 - Edit this project and make it your own : https://app.flutterflow.io/project/plan-parfait-069miz
 - Test it on the web : https://plan-parfait.flutterflow.app/ (PWA available)
-- Install the latest Android APK build : https://github.com/EDM115/planparfait/releases/download/initial/PlanParfait-release-1.3.0.apk
+- Install the latest Android APK build : https://github.com/EDM115/planparfait/releases/download/initial/PlanParfait-release-1.3.1.apk
 
 ### Original releases notes
 
 > initial push
 > code have just been exported from FlutterFlow
-> v13 on their site, but it's a v1.3.0
+> v14 on their site, but it's a v1.3.1
 >
 > things are expected not to work, and can break anytime
 > build may likely fail
@@ -28,7 +28,7 @@ Well I have it and can push it right away, but that wouldn't be without 3 major 
 
 ### The versionning
   
-Why v1.3.0 ?
+Why v1.3.1 ?
 well everything have been developed on FlutterFlow.io, without version control  
 You don't have access to all these versions, but here's a comparison table :  
 | FlutterFlow | App   |
@@ -46,5 +46,4 @@ You don't have access to all these versions, but here's a comparison table :
 | v11             | v1.2.3 |
 | v12             | v1.2.4 |
 | v13             | [v1.3.0](https://github.com/EDM115/planparfait/releases/download/initial/PlanParfait-release-1.3.0.apk) |
-
-
+| v14             | [v1.3.1](https://github.com/EDM115/planparfait/releases/download/initial/PlanParfait-release-1.3.1.apk) |
