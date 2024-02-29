@@ -1,7 +1,8 @@
 repo_name: EDM115/planparfait
 report_id: 13d468394266449b4600845bcf74252d
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-09T15:02:34+00:00'
+timestamp: '2024-02-29T18:13:08+00:00'
 requested_by: EDM115
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/EDM115/planparfait
   detection_source: Repo Metadata
