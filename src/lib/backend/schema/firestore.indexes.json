@@ -1,0 +1,40 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "tasks",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "owner",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "task_completed",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "toFinishTime",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "tasks",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "owner",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "task_completed",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "toFinishTime",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

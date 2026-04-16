@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95740220xxxx",
+    "project_id": "plan-parfait-069miz",
+    "storage_bucket": "plan-parfait-069miz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95740220xxxx:android:b98f8acc8a2bbb6335xxxx",
+        "android_client_info": {
+          "package_name": "dev.edm115.planparfait"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1hmCp_CGcAwAql3XrrZc1OVjcs0Wxxxx"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
